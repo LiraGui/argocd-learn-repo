@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "argocd-learn-repo",
+  "version": "1.0.0",
+  "description": "Repository to learn more about ArgoCD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiraGui/argocd-learn-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiraGui/argocd-learn-repo/issues"
+  },
+  "homepage": "https://github.com/LiraGui/argocd-learn-repo#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
