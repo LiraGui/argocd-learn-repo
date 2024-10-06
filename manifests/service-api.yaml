@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: start-wars-api
+  name: star-wars-api
 spec:
   selector:
-    app: start-wars-api
+    app: star-wars-api
   ports:
   - port: 3000
     targetPort: 3000
